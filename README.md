@@ -16,3 +16,5 @@ information of both parties and the items being billed. You can view previous in
 mark if they are paid, or delete them. There is also light and dark mode that will save
 your preference. 
 - [Memory Game](https://absolam.github.io/Memory-Game/): A game created with React where you are tasked with finding matching pairs. You can choose to play solo or with up to four players. There are also options of using icons instead of numbers and increasing the difficulty from a 4x4 grid to 6x6. The time and number of moves are tracked for each game.
+
+Feel free to take a look around and check out my projects. You can also find me on [LinkedIn](https://www.linkedin.com/in/aaronabsolam/) if you want to connect!
